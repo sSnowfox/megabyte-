@@ -1,0 +1,59 @@
+!DOCTYPE html
+html lang=pt-BR
+head
+  meta charset=UTF-8
+  meta name=viewport content=width=device-width, initial-scale=1.0
+  titleMegabyte - Loja Gamertitle
+  link rel=stylesheet href=style.css
+head
+body
+
+  header
+    div class=container
+      img src=megabyte-logo.jpg alt=Logo Megabyte class=logo
+      nav
+        ul class=menu
+          lia href=#Inícioali
+          lia href=#Produtosali
+          lia href=#Sobreali
+          lia href=#Contatoali
+        ul
+      nav
+    div
+  header
+
+  section class=banner
+    h1Equipamentos Gamers de Alta Performanceh1
+    pConquiste seu setup com estilo e potênciap
+  section
+
+  section class=produtos
+    h2Produtos em Destaqueh2
+    div class=produtos-grid
+      div class=produto
+        img src=httpsvia.placeholder.com300x200 alt=Produto 1
+        h3Teclado Mecânico RGBh3
+        pSwitch Blue, iluminação personalizável e acabamento premium.p
+        a href=#Ver maisa
+      div
+      div class=produto
+        img src=httpsvia.placeholder.com300x200 alt=Produto 2
+        h3Mouse Gamer 16000 DPIh3
+        pAlta precisão e ergonomia para longas sessões.p
+        a href=#Ver maisa
+      div
+      div class=produto
+        img src=httpsvia.placeholder.com300x200 alt=Produto 3
+        h3Headset Surround 7.1h3
+        pImersão total em jogos com microfone destacável.p
+        a href=#Ver maisa
+      div
+    div
+  section
+
+  footer
+    p&copy; 2025 Megabyte. Todos os direitos reservados.p
+  footer
+
+body
+html
